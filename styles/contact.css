@@ -1,0 +1,38 @@
+
+.name{
+    color: aqua;
+    padding-right: 200px;
+    font-size: large;
+}
+nav{
+    display: flex;
+    background-color: rgb(222, 238, 232);
+    padding: 30px;
+}
+.NavBar a{
+    padding-right: 80px;
+}
+.main_C{
+   display: grid;
+   grid-template-columns: 50% auto;
+    background-color: greenyellow;
+    font-family: cursive;
+}
+.content_C{
+    padding-left: 30px;
+}
+.form_C{
+    background-color: green;
+    border-radius: 30px;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin-right: 50%;
+    height: 72%;
+    width: fit-content;
+    padding-bottom: 70px;
+    margin-top: 20px;
+    margin-left: 20px;
+
+    
+}
+

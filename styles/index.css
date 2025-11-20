@@ -1,0 +1,27 @@
+.name{
+    color: aqua;
+    padding-right: 200px;
+    font-size: large;
+}
+nav{
+    display: flex;
+    background-color: rgb(222, 238, 232);
+    padding: 30px;
+}
+.NavBar a{
+    padding-right: 80px;
+}
+main{
+    display: flex;
+    background-color: rgb(0, 246, 246);
+    padding-bottom: 30px;
+}
+.text{
+    padding-right: 150px;
+    padding-left: 30px;
+    font-family: cursive;
+}
+.image{
+    padding-top: 40px;
+    padding-right: 150px;
+}

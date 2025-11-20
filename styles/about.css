@@ -1,0 +1,50 @@
+.name{
+    color: aqua;
+    padding-right: 200px;
+    font-size: large;
+}
+nav{
+    display: flex;
+    background-color: rgb(222, 238, 232);
+    padding: 30px;
+}
+.NavBar a{
+    padding-right: 80px;
+}
+.main_A{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 30px;
+    font-family: cursive;
+}
+.content_A{
+    padding-right: 150px;
+}
+.img_A{
+    padding-top: 40px;
+    padding-right: 250px;
+}
+.header_A{
+    display: grid;
+    grid-template-columns:auto auto ;
+    font-family: cursive;
+}
+.socio_img_A{
+    padding-left: 100px;
+}
+.socio_A{
+    padding-left: 100px;
+}
+.footer_A{
+     display: grid;
+    grid-template-columns: auto auto;
+    padding: 30px;
+    font-family: cursive;
+}
+.mile_A{
+    padding-right: 150px;
+}
+.img_A{
+    padding-top: 40px;
+    padding-right: 250px;
+}
